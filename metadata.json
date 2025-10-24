@@ -1,0 +1,5 @@
+{
+  "name": "AI Story Generator",
+  "description": "An application that generates long, coherent stories based on a user's prompt. It iteratively builds a narrative of up to 200,000 characters, ensuring realism and avoiding repetition.",
+  "requestFramePermissions": []
+}
